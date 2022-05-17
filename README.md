@@ -13,3 +13,5 @@
 # Deploy
 
 Você consegue acessar o projeto aqui: https://nlw-return-impulse-7mpinlpx6-joaofelippe911.vercel.app/
+
+>Desenvolvido na Next Level Week by [Rocketseat](https://www.rocketseat.com.br/)
